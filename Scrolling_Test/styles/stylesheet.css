@@ -20,6 +20,8 @@ margin-left: 30px;
 color: #fff;
 text-decoration: none;
 line-height: 50px;
+font-family: 'Just Another Hand', cursive;
+font-size: 36px;
 }
 .sect{
 height: 100%;
@@ -32,22 +34,26 @@ background-image: url(../images/cheap_diagonal_fabric.png);
 }
 .subSection2{
 height: 50%;
-background-image: url(../images/green_cup.png);
+background-image: url(../images/flag.jpeg);
+background-size: cover;
 }
 .sectOne{
 background-image: url(../images/speaker.jpeg);
+background-size: cover;
 }
 .sectTwo{
 background-image: url(../images/desk.jpeg);
 }
 .sectThree{
 background-image: url(../images/desk2.jpeg);
+background-size: cover;
 }
 .intro{
 color:#fff;
 font-size: 60px;
 text-align: center;
 padding-top: 20px;
+margin-bottom: 0px;
 font-family: 'Arvo', serif;
 }
 .title{
@@ -64,5 +70,17 @@ height: 50px;
 font-size: 32px;
 }
 .america{
-	font-family: 'Lobster', cursive;
+font-family: 'Lobster', cursive;
+}
+.america2{
+font-size: 32px;
+font-family: 'Arvo', serif;
+color: #fff;
+margin-top: 0px;
+text-align: center;
+margin-bottom: 0px;
+}
+.wounded{
+	text-align: center;
+	padding-top: 15px;
 }
